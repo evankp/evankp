@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👨‍💻 Full Stack Engineer with Front End Focus
 
-<!--
-**evankp/evankp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I enjoy building websites and apps with React & React Native, Node.js, HTML, CSS, JavaScript and Vue.js. I aspire to create great user experiences through simple, easy to navigate user interfaces. I use tools like Figma and Illustrator to design and build pages and use Node, Python and full-stack JavaScript to connect user interfaces to backend systems. I am also passionate about sustainable energy, self-driving/electric vehicles and IoT home automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Work Experience
+
+#### OhmConnect
+##### Front End Engineer
+OhmConnect pays users to save energy when the grid is stressed -- get paid while helping the environment!
+
+*Febraury 2018 - October 2018 - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend*
+
+*Febraury 2020 - current - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend*
+
+#### Hello Africa
+##### Full Stack Engineer
+Hello African is a dating app that connects africans together around the world.
+
+*January 2020 - current - Lead development on React Native development, App deployment and Google Analytics. Optimizing Hello Africa's search algorithm.*
