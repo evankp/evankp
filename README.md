@@ -10,7 +10,7 @@ _Front End Engineer_
 
 > OhmConnect pays users to save energy when the grid is stressed -- get paid while helping the environment!
 >
-> *Febraury 2018 - October 2018 - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend*
+> **Febraury 2018 - October 2018 - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend**
 >
 > *Febraury 2020 - current - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend*
 
@@ -19,4 +19,4 @@ _Full Stack Engineer_
 
 > Hello African is a dating app that connects africans together around the world.
 >
-> *January 2020 - current - Lead development on React Native development, App deployment and Google Analytics. Optimizing Hello Africa's search algorithm.*
+> **January 2020 - current - Lead development on React Native development, App deployment and Google Analytics. Optimizing Hello Africa's search algorithm.**
