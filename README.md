@@ -12,7 +12,7 @@ _Front End Engineer_
 >
 > **Febraury 2018 - October 2018 - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend**
 >
-> *Febraury 2020 - current - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend*
+> **Febraury 2020 - current - Helped build OhmConnect's Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend**
 
 #### Hello Africa
 _Full Stack Engineer_
