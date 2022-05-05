@@ -6,17 +6,17 @@ I enjoy building websites and apps with React & React Native, Node.js, HTML, CSS
 ## 💻 Work Experience
 
 #### OhmConnect
-_Front End Engineer_
+_Full Stack Engineer_
 
 > OhmConnect pays users to save energy when the grid is stressed -- get paid while helping the environment!
 >
 > **Febraury 2018 - October 2018 - Helped organize the workflow and process of designing pages with Webflow and connecting them to the backend**
 >
-> **Febraury 2020 - current - Building out CSS architecture and design-to-code transition, React SPA transition contribution and leading the techincal effort on transitioning signup flow to the React framework**
+> **Febraury 2020 - current - Building out CSS architecture and design-to-code transition, React SPA transition contribution and leading the techincal effort on transitioning signup flow to the React framework and main eningeer on partner whitelabeling**
 
 #### Hello Africa
 _Full Stack Engineer_
 
 > Hello Africa is a dating app that connects africans together around the world.
 >
-> **January 2020 - current - Lead development on React Native development, App deployment and Google Analytics. Optimizing Hello Africa's search algorithm.**
+> **January 2020 - Feburary 2021 - Lead development on React Native development, App deployment and Google Analytics. Optimizing Hello Africa's search algorithm.**
